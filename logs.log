@@ -1,0 +1,42 @@
+2025-02-27 18:23:37,542:WARNING:C:\Users\jysh2\miniconda3\envs\mlops\lib\site-packages\pydantic\_internal\_config.py:345: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2025-02-27 18:23:38,176:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:23:38,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:23:38,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:23:38,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:23:38,257:INFO:Initializing load_model()
+2025-02-27 18:23:38,257:INFO:load_model(model_name=used_car_sales_pipeline, platform=None, authentication=None, verbose=True)
+2025-02-27 18:24:25,283:WARNING:C:\Users\jysh2\miniconda3\envs\mlops\lib\site-packages\pydantic\_internal\_config.py:345: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2025-02-27 18:24:25,845:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:24:25,845:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:24:25,845:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:24:25,845:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:24:25,921:INFO:Initializing load_model()
+2025-02-27 18:24:25,922:INFO:load_model(model_name=used_car_sales_pipeline, platform=None, authentication=None, verbose=True)
+2025-02-27 18:25:02,845:WARNING:C:\Users\jysh2\miniconda3\envs\mlops\lib\site-packages\pydantic\_internal\_config.py:345: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2025-02-27 18:25:03,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:25:03,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:25:03,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:25:03,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-27 18:25:03,477:INFO:Initializing load_model()
+2025-02-27 18:25:03,477:INFO:load_model(model_name=used_car_sales_pipeline.pkl, platform=None, authentication=None, verbose=True)
