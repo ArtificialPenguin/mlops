@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops/src/mlruns/617165184518790208/dd23721a54e24a539da95a3834d85190/artifacts
+end_time: 1740644396377
+entry_point_name: ''
+experiment_id: '617165184518790208'
+lifecycle_stage: active
+run_id: dd23721a54e24a539da95a3834d85190
+run_name: Elastic Net
+run_uuid: dd23721a54e24a539da95a3834d85190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740644396255
+status: 3
+tags: []
+user_id: jysh2

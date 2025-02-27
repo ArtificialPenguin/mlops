@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops/src/mlruns/617165184518790208/b47c9fcb9c6442c7930b8e071188d6b0/artifacts
+end_time: 1740644394291
+entry_point_name: ''
+experiment_id: '617165184518790208'
+lifecycle_stage: active
+run_id: b47c9fcb9c6442c7930b8e071188d6b0
+run_name: K Neighbors Regressor
+run_uuid: b47c9fcb9c6442c7930b8e071188d6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740644394159
+status: 3
+tags: []
+user_id: jysh2

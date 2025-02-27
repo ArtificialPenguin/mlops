@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740642798833
+current_stage: None
+description: ''
+last_updated_timestamp: 1740642798833
+name: used_car_predictor
+run_id: 6a110dd9b9e94f019799f082b9e9a476
+run_link: ''
+source: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops/src/mlruns/617165184518790208/6a110dd9b9e94f019799f082b9e9a476/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops/src/mlruns/617165184518790208/6a110dd9b9e94f019799f082b9e9a476/artifacts/model
+user_id: null
+version: 1

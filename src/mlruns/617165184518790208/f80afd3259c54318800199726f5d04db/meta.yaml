@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops/src/mlruns/617165184518790208/f80afd3259c54318800199726f5d04db/artifacts
+end_time: 1740644393366
+entry_point_name: ''
+experiment_id: '617165184518790208'
+lifecycle_stage: active
+run_id: f80afd3259c54318800199726f5d04db
+run_name: Bayesian Ridge
+run_uuid: f80afd3259c54318800199726f5d04db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740644393007
+status: 3
+tags: []
+user_id: jysh2
