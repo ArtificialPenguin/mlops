@@ -1,3 +1,4 @@
-/mlops/src/mlruns
+/src/mlruns/
+/src/logs.log
 hello.pdf
 Datasets
