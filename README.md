@@ -5,7 +5,7 @@ You would then provide the necessary libraries for streamlit to use to run the a
 
 The application to refer for the combined application is app.py, the link refers to that combined web application of housing prices and used car prices
 
-Below is the folder structure for your reference for used_car_prices setup process:
+Below is the general folder structure for your reference on the setup process:
 |--Data
     |--02_Used_Car_Prices.xlsx
 |--Logs
