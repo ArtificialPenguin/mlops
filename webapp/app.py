@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # Load the used car sales model
-car_model = load_model(r'C:\Users\jysh2\OneDrive\Documents\code\mlops_repo\models\used_car_sales')
+car_model = load_model(r"C:\Users\jysh2\OneDrive\Documents\code\mlops_repo\models\used_car_sales")
 
 # Load the Melbourne property price prediction model
 property_model_path = r"C:\Users\jysh2\OneDrive\Documents\code\mlops_repo\models\sriram_best_model"
