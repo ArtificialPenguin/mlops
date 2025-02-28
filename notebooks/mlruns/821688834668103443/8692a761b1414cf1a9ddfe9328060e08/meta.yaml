@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/8692a761b1414cf1a9ddfe9328060e08/artifacts
+end_time: 1740712304210
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: 8692a761b1414cf1a9ddfe9328060e08
+run_name: Lasso Least Angle Regression
+run_uuid: 8692a761b1414cf1a9ddfe9328060e08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712304068
+status: 3
+tags: []
+user_id: jysh2

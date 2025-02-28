@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/5aaf0e10665949a8a753c739224b03bb/artifacts
+end_time: 1740712301812
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: 5aaf0e10665949a8a753c739224b03bb
+run_name: Passive Aggressive Regressor
+run_uuid: 5aaf0e10665949a8a753c739224b03bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712301671
+status: 3
+tags: []
+user_id: jysh2

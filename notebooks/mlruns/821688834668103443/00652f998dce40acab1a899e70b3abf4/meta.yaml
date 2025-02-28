@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/00652f998dce40acab1a899e70b3abf4/artifacts
+end_time: 1740712303278
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: 00652f998dce40acab1a899e70b3abf4
+run_name: AdaBoost Regressor
+run_uuid: 00652f998dce40acab1a899e70b3abf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712303140
+status: 3
+tags: []
+user_id: jysh2

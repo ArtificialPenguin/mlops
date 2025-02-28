@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/0921e59368f846b09708221ed915f84a/artifacts
+end_time: 1740712303497
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: 0921e59368f846b09708221ed915f84a
+run_name: Orthogonal Matching Pursuit
+run_uuid: 0921e59368f846b09708221ed915f84a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712303375
+status: 3
+tags: []
+user_id: jysh2

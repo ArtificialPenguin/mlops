@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/dd9e6907cbc34e878f057178487be29d/artifacts
+end_time: 1740712300872
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: dd9e6907cbc34e878f057178487be29d
+run_name: Ridge Regression
+run_uuid: dd9e6907cbc34e878f057178487be29d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712300732
+status: 3
+tags: []
+user_id: jysh2

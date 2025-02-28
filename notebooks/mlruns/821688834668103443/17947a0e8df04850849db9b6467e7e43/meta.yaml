@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/17947a0e8df04850849db9b6467e7e43/artifacts
+end_time: 1740712303967
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: 17947a0e8df04850849db9b6467e7e43
+run_name: Lasso Regression
+run_uuid: 17947a0e8df04850849db9b6467e7e43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712303837
+status: 3
+tags: []
+user_id: jysh2

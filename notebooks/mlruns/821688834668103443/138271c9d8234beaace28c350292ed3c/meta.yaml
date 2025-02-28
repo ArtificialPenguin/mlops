@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/138271c9d8234beaace28c350292ed3c/artifacts
+end_time: 1740712302802
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: 138271c9d8234beaace28c350292ed3c
+run_name: Random Forest Regressor
+run_uuid: 138271c9d8234beaace28c350292ed3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712302664
+status: 3
+tags: []
+user_id: jysh2

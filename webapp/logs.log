@@ -1,0 +1,41 @@
+2025-02-28 11:13:34,821:WARNING:C:\Users\jysh2\anaconda3\envs\mlops\lib\site-packages\pydantic\_internal\_config.py:345: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2025-02-28 11:13:35,376:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-28 11:13:35,376:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-28 11:13:35,376:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-28 11:13:35,376:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-28 11:13:35,453:INFO:Initializing load_model()
+2025-02-28 11:13:35,453:INFO:load_model(model_name=C:\Users\jysh2\OneDrive\Documents\code\mlops_repo\models\used_car_sales, platform=None, authentication=None, verbose=True)
+2025-02-28 11:13:38,076:INFO:Initializing load_model()
+2025-02-28 11:13:38,077:INFO:load_model(model_name=C:\Users\jysh2\OneDrive\Documents\code\mlops_repo\models\used_car_sales, platform=None, authentication=None, verbose=True)
+2025-02-28 11:13:38,132:INFO:Initializing predict_model()
+2025-02-28 11:13:38,132:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001B6888D4580>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Kilometers_Driven',
+                                             'Seats', 'Mileage (kmpl)',
+                                             'Engine (CC)', 'Power (bhp)'],
+                                    transformer=SimpleImputer(strategy='median'))),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Location', 'Fuel_Type',
+                                             'Transmission', 'Owner_Type',
+                                             'Brand', 'Model'],
+                                    transformer=...
+                                             'Engine (CC)', 'Power (bhp)'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B688C6DAB0>)
+2025-02-28 11:13:38,132:INFO:Checking exceptions
+2025-02-28 11:13:38,132:INFO:Preloading libraries
+2025-02-28 11:13:38,132:INFO:Set up data.
+2025-02-28 11:13:38,136:INFO:Set up index.

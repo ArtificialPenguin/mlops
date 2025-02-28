@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/95627e7f7e744b76a67f96c8a7d14f6f/artifacts
+end_time: 1740712301335
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: 95627e7f7e744b76a67f96c8a7d14f6f
+run_name: Huber Regressor
+run_uuid: 95627e7f7e744b76a67f96c8a7d14f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712301203
+status: 3
+tags: []
+user_id: jysh2

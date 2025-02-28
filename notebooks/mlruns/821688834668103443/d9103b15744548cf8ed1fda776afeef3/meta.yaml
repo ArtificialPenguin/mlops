@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/d9103b15744548cf8ed1fda776afeef3/artifacts
+end_time: 1740712304652
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: d9103b15744548cf8ed1fda776afeef3
+run_name: Least Angle Regression
+run_uuid: d9103b15744548cf8ed1fda776afeef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712304527
+status: 3
+tags: []
+user_id: jysh2

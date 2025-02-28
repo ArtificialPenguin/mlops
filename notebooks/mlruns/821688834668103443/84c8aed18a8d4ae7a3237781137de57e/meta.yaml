@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/84c8aed18a8d4ae7a3237781137de57e/artifacts
+end_time: 1740712303037
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: 84c8aed18a8d4ae7a3237781137de57e
+run_name: Decision Tree Regressor
+run_uuid: 84c8aed18a8d4ae7a3237781137de57e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712302902
+status: 3
+tags: []
+user_id: jysh2

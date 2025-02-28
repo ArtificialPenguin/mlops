@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jysh2/OneDrive/Documents/code/mlops_repo/notebooks/mlruns/821688834668103443/a58208bc7b1349c6b3ba6cba331d446b/artifacts
+end_time: 1740712304428
+entry_point_name: ''
+experiment_id: '821688834668103443'
+lifecycle_stage: active
+run_id: a58208bc7b1349c6b3ba6cba331d446b
+run_name: Dummy Regressor
+run_uuid: a58208bc7b1349c6b3ba6cba331d446b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712304308
+status: 3
+tags: []
+user_id: jysh2
